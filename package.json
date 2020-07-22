@@ -1,0 +1,19 @@
+{
+  "name": "pupuu-web",
+  "version": "1.0.0",
+  "description": "Pupuu has a little Bianca 项目的主站点。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hellopujing:Pj2332130335@github.com/HelloPujing/pupuu-web.git"
+  },
+  "author": "PuJing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HelloPujing/pupuu-web/issues"
+  },
+  "homepage": "https://github.com/HelloPujing/pupuu-web#readme"
+}
